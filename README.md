@@ -1,9 +1,9 @@
 ### Olá! Eu sou rafgam10 👋
 
--🤓 Aprendiz de Front-end & Python
--👨‍🎓 Estudante
--🤑 Vendo NFT(s) no Open sea: rafgam10
--😀 Pronous: ele/dele
+-🤓 Aprendiz de Front-end & Python<p>
+-👨‍🎓 Estudante<p>
+-🤑 Vendo NFT(s) no Open sea: rafgam10<p>
+-😀 Pronous: ele/dele<p>
 
 <!-- parte do perfil -->
 <div align="center">
