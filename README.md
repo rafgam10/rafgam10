@@ -24,7 +24,8 @@
   <img align="center" alt="rafgam10-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="rafgam10-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="rafgam10-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-    
+  <img align="center" alt="rafgam10-Vim" height="30" width="40" src="https://github.com/namanks2201/namanks2201/blob/main/img/cpp.png?raw=true">
+   
 </div>
   
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
