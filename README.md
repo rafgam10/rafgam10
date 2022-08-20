@@ -24,7 +24,7 @@
   <img align="center" alt="rafgam10-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="rafgam10-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="rafgam10-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" alt="rafgam10-C++" height="30" width="40" src="https://isocpp.org/assets/images/cpp_logo.png">
+  <img align="center" alt="rafgam10-C++" height="30" width="40" src="https://github.com/isocpp/logos/cpp_logo.svg">
    
 </div>
   
