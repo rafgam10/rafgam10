@@ -1,4 +1,4 @@
-### Olá! Eu sou rafgam10 👋
+### Olá! Eu sou Rafael Timotéo Costa Oliveira 👋
 
 -🤓 Aprendiz de Front-end & Python<p>
 -👨‍🎓 Estudante<p>
