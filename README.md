@@ -21,9 +21,9 @@
   <img align="center" alt="rafgam10-C++" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
   <img align="center" alt="rafgam10-Shell-Zsh-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="rafgam10-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="rafgam10-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/archcraft-os/archcraft-packages/main/archcraft-artworks/files/logo/png/logo-circle/logo-circle-1.png">
-  <img align="center" alt="rafgam10-Ubuntu" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
-  <img align="center" alt="rafgam10-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="rafgam10-ArchCraft" height="30" width="30" src="https://raw.githubusercontent.com/archcraft-os/archcraft-packages/main/archcraft-artworks/files/logo/png/logo-circle/logo-circle-1.png">
+  <img align="center" alt="rafgam10-ArchLinux" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
+  <img align="center" alt="rafgam10-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="rafgam10-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="rafgam10-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
  
