@@ -1,9 +1,7 @@
 ### Olá! Eu sou Rafael Timotéo Costa Oliveira 👋
 
--🤓 Aprendiz de Front-end & Python<p>
+-🤓 Estudo para ser FullStack<p>
 -👨‍🎓 Estudante<p>
--🤑 Vendo NFT(s) no Open sea: rafgam10<p>
--😀 Pronous: ele/dele<p>
 
 <!-- parte do perfil -->
 <div align="center">
